@@ -130,6 +130,6 @@ The goal is simple:
 ---
 
 ## **Contact**
-**@ionirix** - 𝕏 
+**𝕏 - @ionirix**
 **support@ionirix.net**  
 **New York, U.S.A.**
