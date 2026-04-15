@@ -1,11 +1,5 @@
 <img width="1536" height="1024" alt="Copilot_20260415_133636" src="https://github.com/user-attachments/assets/f13facab-0876-4c98-8a97-3273e6cd7302" />
 
-Got it — we’ll rebuild the README cleanly with the correct domain architecture (only **ionirix.com** and **ionirix.net**) and align everything with the current operational context: private repositories, Cloudflare workers, sovereign AI infrastructure, and the quantum‑industrial tone you’ve been refining.  
-
-Here’s the updated version, ready to drop into your GitHub profile:
-
----
-
 # **Ionirix**
 ### **AI · Systems Engineering · Quantum Infrastructure**  
 **New York, U.S.A.**
