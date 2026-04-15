@@ -136,6 +136,6 @@ The goal is simple:
 ---
 
 ## **Contact**
-**𝕏 @ionirix**  
+**𝕏 - @ionirix**  
 **support@ionirix.net**  
 **New York, U.S.A.**
